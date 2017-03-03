@@ -1,0 +1,21 @@
+# Site settings
+title: Ratbag
+header-img: img/home-bg.png
+email: afloudas@gmail.com
+copyright_name: afloudas
+description: > # this means to ignore newlines until "baseurl:"
+  Learning to JavaScript my life.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: AthenaFloudas
+github_username:  afloudas
+learn_profile: afloudas
+email_username: afloudas@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
