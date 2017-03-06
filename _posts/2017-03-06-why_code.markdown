@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "**Why Code?**"
+date:   2017-03-06 14:02:50 +0000
+---
+
+As our world is ever changing with technologies around us, we have an opportunity to build and create on new discoveries. Coding is one of those things that we have to adapt to and learn to grow with. The farther along I was in college, YEARS AGO, the more I saw the importance of coding and learning that technology, and now at the ripe age of 30, I've discovered that I need to evolve and grow with the new developments in coding. As the years have gone by and leaving a corporate job that I had for four years as art director, I found that the field of design had changed as well. Now, I not only need to know how to design, but design for the consumer and what works best for them (UX design) as well as understand most of the code that goes into app or website development. With that little knowledge I'll be better at my job, but I think, why stop there? I love to learn and love to experience new skills and I would be better suited at learning all I can so that it can benefit me in the future. 
+
+I've only ever explored html & css stylesheets and now delving into JavaScript & Ruby and a few others that I don't quite understand yet. In the beginning I was so terrified of the amount of work, the style of of writing and algorithms, not only am I terrible at math...without a paper and pencil...but I knew it would be intimidating. What I ended up finding was patterns within code, or at least that's how I see it, 'if this makes this, then this will do this'. I'm just at the beginning of this new journey and really excited to delve more and deeper into the world of code. 
