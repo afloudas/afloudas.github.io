@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby, why you so difficult? "
-date:   2017-03-21 17:06:24 +0000
+date:   2017-03-21 13:06:25 -0400
 ---
 
 
